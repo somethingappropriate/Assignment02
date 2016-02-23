@@ -1,0 +1,19 @@
+
+ICS3UI
+
+A2Q1
+A.	True
+B.	True 
+C.	False
+D.	False
+E.	False
+F.	True
+G.	False
+H.	True 
+
+
+
+
+A2Q2
+These two are same because Karel will pick thing and turn left in both 
+statements since there is no turn right
